@@ -1,5 +1,5 @@
 [package]
-name = "igd"
+name = "maidsafe_temp_igd"
 version = "0.1.3"
 authors = ["Simon Bernier St-Pierre <sbernierstpierre@gmail.com>"]
 description = "Internet Gateway Protocol client"
